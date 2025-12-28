@@ -1,4 +1,4 @@
 main = do
-    putStrLn "Hello"
-    putStrLn "World"
-    putStrLn "goodbye"
+  putStrLn "Hello"
+  putStrLn "World"
+  putStrLn "goodbye"
